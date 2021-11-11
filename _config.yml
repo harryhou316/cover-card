@@ -2,8 +2,8 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'Harry Hou'
-description: 'I am learning.'
+title: 'Harry Shichao Hou'
+description: 'Keep learning and never quit'
 
 # Images
 avatar: 'avatar.jpg'
@@ -65,8 +65,7 @@ social-links:
     url-pattern: twitter.com/__USERNAME__
 
   - name: linkedin
-    url-pattern: linkedin.com/in/__USERNAME__
-
+    url-pattern: linkein.com/__harryshichaohou__
   - name: google-plus
     url-pattern: plus.google.com/+__USERNAME__
 
