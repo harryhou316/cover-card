@@ -3,8 +3,8 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Harry Shichao Hou'
-description: 'Keep learning and never quit'
-
+description:     'Keep learning and never quit
+                contact info harryhou316@gmail.com'
 # Images
 avatar: 
 background: 'background.jpg'
